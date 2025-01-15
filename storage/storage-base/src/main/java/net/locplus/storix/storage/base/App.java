@@ -1,4 +1,4 @@
-package com.aliyun.cloudevents;
+package net.locplus.storix.storage.base;
 
 /**
  * Hello world!

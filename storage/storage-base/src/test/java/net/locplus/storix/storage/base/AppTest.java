@@ -1,4 +1,4 @@
-package com.aliyun.cloudevents;
+package net.locplus.storix.storage.base;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
